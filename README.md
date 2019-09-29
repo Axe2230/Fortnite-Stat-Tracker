@@ -9,5 +9,7 @@ Steps for running the app
 4) flask run
 
 ---TO RUN IN DEBUG MODE----
+
 set FLASK_DEBUG = 1
+
 flask run
