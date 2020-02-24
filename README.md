@@ -13,3 +13,6 @@ Steps for running the app
 set FLASK_DEBUG = 1
 
 flask run
+
+
+-------Bootstrap updates need to be installed before running--------------
